@@ -1,0 +1,29 @@
+{
+  "name": "whal3s-checkout-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "@whal3s/react": "^1.0.2",
+    "@whal3s/react-connectkit": "^1.0.25",
+    "@whal3s/wagmiprovider": "^1.1.5",
+    "@whal3s/whal3s.js": "^2.0.0-beta.1",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "next": "13.4.9",
+    "postcss": "8.4.25",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.6"
+  }
+}
